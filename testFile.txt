@@ -1,0 +1,4 @@
+this is a test to commit directly without staging
+same as upper one
+
+this is for checking diff
